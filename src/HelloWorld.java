@@ -7,6 +7,8 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		
 		System.out.println("Second commit. Trigger test");
+		
+		System.out.println("New commit#3");
 	}
 
 }
